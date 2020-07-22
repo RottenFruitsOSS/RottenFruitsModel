@@ -1,0 +1,4 @@
+normal
+damage
+early
+advanced
