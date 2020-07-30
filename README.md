@@ -8,8 +8,7 @@ yolo 실행을 위한 darknet 설치 밀 환경 구축
 yolo 학습 과정 정리
 
 
-* 파일 설명
-
+# 파일 설명
 DarknetSetup : yolo 학습을 위해 gdrive에 darknet 설치 및 환경 구축
 
 bazel_install : bazel 사용해서 .pb -> .tflite 변환 시도하려는 파일
