@@ -2,4 +2,4 @@ classes = 4
 train = /content/darknet/custom/train.txt
 valid = /content/darknet/custom/test.txt
 names = /content/darknet/custom/classes.names
-backup = /content/gdrive/My Drive/darknet/backup
+backup = /content/gdrive/My\ Drive/darknet/backup
