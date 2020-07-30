@@ -1,1790 +1,896 @@
 /content/darknet/DataSet/test/damage/damage (131).jpg
-/content/darknet/DataSet/test/damage/damage (131).txt
 /content/darknet/DataSet/test/damage/damage (132).jpg
-/content/darknet/DataSet/test/damage/damage (132).txt
 /content/darknet/DataSet/test/damage/damage (133).jpg
-/content/darknet/DataSet/test/damage/damage (133).txt
 /content/darknet/DataSet/test/damage/damage (134).jpg
-/content/darknet/DataSet/test/damage/damage (134).txt
 /content/darknet/DataSet/test/damage/damage (135).jpg
-/content/darknet/DataSet/test/damage/damage (135).txt
 /content/darknet/DataSet/test/damage/damage (136).jpg
-/content/darknet/DataSet/test/damage/damage (136).txt
 /content/darknet/DataSet/test/damage/damage (137).jpg
-/content/darknet/DataSet/test/damage/damage (137).txt
 /content/darknet/DataSet/test/damage/damage (138).jpg
-/content/darknet/DataSet/test/damage/damage (138).txt
 /content/darknet/DataSet/test/damage/damage (139).jpg
-/content/darknet/DataSet/test/damage/damage (139).txt
 /content/darknet/DataSet/test/damage/damage (140).jpg
-/content/darknet/DataSet/test/damage/damage (140).txt
 /content/darknet/DataSet/test/damage/damage (141).jpg
-/content/darknet/DataSet/test/damage/damage (141).txt
 /content/darknet/DataSet/test/damage/damage (142).jpg
-/content/darknet/DataSet/test/damage/damage (142).txt
 /content/darknet/DataSet/test/damage/damage (143).jpg
-/content/darknet/DataSet/test/damage/damage (143).txt
 /content/darknet/DataSet/test/damage/damage (144).jpg
-/content/darknet/DataSet/test/damage/damage (144).txt
 /content/darknet/DataSet/test/damage/damage (145).jpg
-/content/darknet/DataSet/test/damage/damage (145).txt
 /content/darknet/DataSet/test/damage/damage (146).jpg
-/content/darknet/DataSet/test/damage/damage (146).txt
 /content/darknet/DataSet/test/damage/damage (147).jpg
-/content/darknet/DataSet/test/damage/damage (147).txt
 /content/darknet/DataSet/test/damage/damage (148).jpg
-/content/darknet/DataSet/test/damage/damage (148).txt
 /content/darknet/DataSet/test/damage/damage (149).jpg
-/content/darknet/DataSet/test/damage/damage (149).txt
 /content/darknet/DataSet/test/damage/damage (150).jpg
-/content/darknet/DataSet/test/damage/damage (150).txt
 /content/darknet/DataSet/test/damage/damage (151).jpg
-/content/darknet/DataSet/test/damage/damage (151).txt
 /content/darknet/DataSet/test/damage/damage (152).jpg
-/content/darknet/DataSet/test/damage/damage (152).txt
 /content/darknet/DataSet/test/damage/damage (153).jpg
-/content/darknet/DataSet/test/damage/damage (153).txt
 /content/darknet/DataSet/test/damage/damage (154).jpg
-/content/darknet/DataSet/test/damage/damage (154).txt
 /content/darknet/DataSet/test/damage/damage (155).jpg
-/content/darknet/DataSet/test/damage/damage (155).txt
 /content/darknet/DataSet/test/damage/damage (156).jpg
-/content/darknet/DataSet/test/damage/damage (156).txt
 /content/darknet/DataSet/test/damage/damage (157).jpg
-/content/darknet/DataSet/test/damage/damage (157).txt
 /content/darknet/DataSet/test/damage/damage (158).jpg
-/content/darknet/DataSet/test/damage/damage (158).txt
 /content/darknet/DataSet/test/damage/damage (159).jpg
-/content/darknet/DataSet/test/damage/damage (159).txt
 /content/darknet/DataSet/test/damage/damage (160).jpg
-/content/darknet/DataSet/test/damage/damage (160).txt
 /content/darknet/DataSet/test/damage/damage (161).jpg
-/content/darknet/DataSet/test/damage/damage (161).txt
 /content/darknet/DataSet/test/damage/damage (162).jpg
-/content/darknet/DataSet/test/damage/damage (162).txt
 /content/darknet/DataSet/test/damage/damage (163).jpg
-/content/darknet/DataSet/test/damage/damage (163).txt
 /content/darknet/DataSet/test/damage/damage (164).jpg
-/content/darknet/DataSet/test/damage/damage (164).txt
 /content/darknet/DataSet/test/damage/damage (165).jpg
-/content/darknet/DataSet/test/damage/damage (165).txt
 /content/darknet/DataSet/test/damage/damage (166).jpg
-/content/darknet/DataSet/test/damage/damage (166).txt
 /content/darknet/DataSet/test/damage/damage (167).jpg
-/content/darknet/DataSet/test/damage/damage (167).txt
 /content/darknet/DataSet/test/damage/damage (168).jpg
-/content/darknet/DataSet/test/damage/damage (168).txt
 /content/darknet/DataSet/test/damage/damage (169).jpg
-/content/darknet/DataSet/test/damage/damage (169).txt
 /content/darknet/DataSet/test/damage/damage (170).jpg
-/content/darknet/DataSet/test/damage/damage (170).txt
 /content/darknet/DataSet/test/damage/damage (171).jpg
-/content/darknet/DataSet/test/damage/damage (171).txt
 /content/darknet/DataSet/test/damage/damage (172).jpg
-/content/darknet/DataSet/test/damage/damage (172).txt
 /content/darknet/DataSet/test/damage/damage (173).jpg
-/content/darknet/DataSet/test/damage/damage (173).txt
 /content/darknet/DataSet/test/damage/damage (174).jpg
-/content/darknet/DataSet/test/damage/damage (174).txt
 /content/darknet/DataSet/test/damage/damage (175).jpg
-/content/darknet/DataSet/test/damage/damage (175).txt
 /content/darknet/DataSet/test/damage/damage (176).jpg
-/content/darknet/DataSet/test/damage/damage (176).txt
 /content/darknet/DataSet/test/damage/damage (177).jpg
-/content/darknet/DataSet/test/damage/damage (177).txt
 /content/darknet/DataSet/test/damage/damage (178).jpg
-/content/darknet/DataSet/test/damage/damage (178).txt
 /content/darknet/DataSet/test/damage/damage (179).jpg
-/content/darknet/DataSet/test/damage/damage (179).txt
 /content/darknet/DataSet/test/damage/damage (180).jpg
-/content/darknet/DataSet/test/damage/damage (180).txt
 /content/darknet/DataSet/test/damage/damage (181).jpg
-/content/darknet/DataSet/test/damage/damage (181).txt
 /content/darknet/DataSet/test/damage/damage (182).jpg
-/content/darknet/DataSet/test/damage/damage (182).txt
 /content/darknet/DataSet/test/damage/damage (183).jpg
-/content/darknet/DataSet/test/damage/damage (183).txt
 /content/darknet/DataSet/test/damage/damage (199).jpg
-/content/darknet/DataSet/test/damage/damage (199).txt
 /content/darknet/DataSet/test/damage/damage (200).jpg
-/content/darknet/DataSet/test/damage/damage (200).txt
 /content/darknet/DataSet/test/damage/damage (201).jpg
-/content/darknet/DataSet/test/damage/damage (201).txt
 /content/darknet/DataSet/test/damage/damage (202).jpg
-/content/darknet/DataSet/test/damage/damage (202).txt
 /content/darknet/DataSet/test/damage/damage (203).jpg
-/content/darknet/DataSet/test/damage/damage (203).txt
 /content/darknet/DataSet/test/damage/damage (204).jpg
-/content/darknet/DataSet/test/damage/damage (204).txt
 /content/darknet/DataSet/test/damage/damage (205).jpg
-/content/darknet/DataSet/test/damage/damage (205).txt
 /content/darknet/DataSet/test/damage/damage (206).jpg
-/content/darknet/DataSet/test/damage/damage (206).txt
 /content/darknet/DataSet/test/damage/damage (207).jpg
-/content/darknet/DataSet/test/damage/damage (207).txt
 /content/darknet/DataSet/test/damage/damage (208).jpg
-/content/darknet/DataSet/test/damage/damage (208).txt
 /content/darknet/DataSet/test/damage/damage (209).jpg
-/content/darknet/DataSet/test/damage/damage (209).txt
 /content/darknet/DataSet/test/damage/damage (210).jpg
-/content/darknet/DataSet/test/damage/damage (210).txt
 /content/darknet/DataSet/test/damage/damage (236).jpg
-/content/darknet/DataSet/test/damage/damage (236).txt
 /content/darknet/DataSet/test/damage/damage (237).jpg
-/content/darknet/DataSet/test/damage/damage (237).txt
 /content/darknet/DataSet/test/damage/damage (238).jpg
-/content/darknet/DataSet/test/damage/damage (238).txt
 /content/darknet/DataSet/test/damage/damage (239).jpg
-/content/darknet/DataSet/test/damage/damage (239).txt
 /content/darknet/DataSet/test/damage/damage (240).jpg
-/content/darknet/DataSet/test/damage/damage (240).txt
 /content/darknet/DataSet/test/damage/damage (241).jpg
-/content/darknet/DataSet/test/damage/damage (241).txt
 /content/darknet/DataSet/test/damage/damage (242).jpg
-/content/darknet/DataSet/test/damage/damage (242).txt
 /content/darknet/DataSet/test/normal/normal (101).jpg
-/content/darknet/DataSet/test/normal/normal (101).txt
 /content/darknet/DataSet/test/normal/normal (102).jpg
-/content/darknet/DataSet/test/normal/normal (102).txt
 /content/darknet/DataSet/test/normal/normal (103).jpg
-/content/darknet/DataSet/test/normal/normal (103).txt
 /content/darknet/DataSet/test/normal/normal (104).jpg
-/content/darknet/DataSet/test/normal/normal (104).txt
 /content/darknet/DataSet/test/normal/normal (105).jpg
-/content/darknet/DataSet/test/normal/normal (105).txt
 /content/darknet/DataSet/test/normal/normal (106).jpg
-/content/darknet/DataSet/test/normal/normal (106).txt
 /content/darknet/DataSet/test/normal/normal (107).jpg
-/content/darknet/DataSet/test/normal/normal (107).txt
 /content/darknet/DataSet/test/normal/normal (108).jpg
-/content/darknet/DataSet/test/normal/normal (108).txt
 /content/darknet/DataSet/test/normal/normal (109).jpg
-/content/darknet/DataSet/test/normal/normal (109).txt
 /content/darknet/DataSet/test/normal/normal (110).jpg
-/content/darknet/DataSet/test/normal/normal (110).txt
 /content/darknet/DataSet/test/normal/normal (111).jpg
-/content/darknet/DataSet/test/normal/normal (111).txt
 /content/darknet/DataSet/test/normal/normal (112).jpg
-/content/darknet/DataSet/test/normal/normal (112).txt
 /content/darknet/DataSet/test/normal/normal (113).jpg
-/content/darknet/DataSet/test/normal/normal (113).txt
 /content/darknet/DataSet/test/normal/normal (114).jpg
-/content/darknet/DataSet/test/normal/normal (114).txt
 /content/darknet/DataSet/test/normal/normal (115).jpg
-/content/darknet/DataSet/test/normal/normal (115).txt
 /content/darknet/DataSet/test/normal/normal (116).jpg
-/content/darknet/DataSet/test/normal/normal (116).txt
 /content/darknet/DataSet/test/normal/normal (117).jpg
-/content/darknet/DataSet/test/normal/normal (117).txt
 /content/darknet/DataSet/test/normal/normal (118).jpg
-/content/darknet/DataSet/test/normal/normal (118).txt
 /content/darknet/DataSet/test/normal/normal (119).jpg
-/content/darknet/DataSet/test/normal/normal (119).txt
 /content/darknet/DataSet/test/normal/normal (120).jpg
-/content/darknet/DataSet/test/normal/normal (120).txt
 /content/darknet/DataSet/test/normal/normal (121).jpg
-/content/darknet/DataSet/test/normal/normal (121).txt
 /content/darknet/DataSet/test/normal/normal (122).jpg
-/content/darknet/DataSet/test/normal/normal (122).txt
 /content/darknet/DataSet/test/normal/normal (123).jpg
-/content/darknet/DataSet/test/normal/normal (123).txt
 /content/darknet/DataSet/test/normal/normal (124).jpg
-/content/darknet/DataSet/test/normal/normal (124).txt
 /content/darknet/DataSet/test/normal/normal (125).jpg
-/content/darknet/DataSet/test/normal/normal (125).txt
 /content/darknet/DataSet/test/normal/normal (146).jpg
-/content/darknet/DataSet/test/normal/normal (146).txt
 /content/darknet/DataSet/test/normal/normal (147).jpg
-/content/darknet/DataSet/test/normal/normal (147).txt
 /content/darknet/DataSet/test/normal/normal (148).jpg
-/content/darknet/DataSet/test/normal/normal (148).txt
 /content/darknet/DataSet/test/normal/normal (149).jpg
-/content/darknet/DataSet/test/normal/normal (149).txt
 /content/darknet/DataSet/test/normal/normal (150).jpg
-/content/darknet/DataSet/test/normal/normal (150).txt
 /content/darknet/DataSet/test/normal/normal (151).jpg
-/content/darknet/DataSet/test/normal/normal (151).txt
 /content/darknet/DataSet/test/normal/normal (152).jpg
-/content/darknet/DataSet/test/normal/normal (152).txt
 /content/darknet/DataSet/test/normal/normal (153).jpg
-/content/darknet/DataSet/test/normal/normal (153).txt
 /content/darknet/DataSet/test/normal/normal (154).jpg
-/content/darknet/DataSet/test/normal/normal (154).txt
 /content/darknet/DataSet/test/normal/normal (155).jpg
-/content/darknet/DataSet/test/normal/normal (155).txt
 /content/darknet/DataSet/test/normal/normal (156).jpg
-/content/darknet/DataSet/test/normal/normal (156).txt
 /content/darknet/DataSet/test/normal/normal (157).jpg
-/content/darknet/DataSet/test/normal/normal (157).txt
 /content/darknet/DataSet/test/normal/normal (158).jpg
-/content/darknet/DataSet/test/normal/normal (158).txt
 /content/darknet/DataSet/test/normal/normal (159).jpg
-/content/darknet/DataSet/test/normal/normal (159).txt
 /content/darknet/DataSet/test/normal/normal (160).jpg
-/content/darknet/DataSet/test/normal/normal (160).txt
 /content/darknet/DataSet/test/normal/normal (161).jpg
-/content/darknet/DataSet/test/normal/normal (161).txt
 /content/darknet/DataSet/test/normal/normal (162).jpg
-/content/darknet/DataSet/test/normal/normal (162).txt
 /content/darknet/DataSet/test/normal/normal (163).jpg
-/content/darknet/DataSet/test/normal/normal (163).txt
 /content/darknet/DataSet/test/normal/normal (164).jpg
-/content/darknet/DataSet/test/normal/normal (164).txt
 /content/darknet/DataSet/test/normal/normal (165).jpg
-/content/darknet/DataSet/test/normal/normal (165).txt
 /content/darknet/DataSet/test/normal/normal (166).jpg
-/content/darknet/DataSet/test/normal/normal (166).txt
 /content/darknet/DataSet/test/normal/normal (167).jpg
-/content/darknet/DataSet/test/normal/normal (167).txt
 /content/darknet/DataSet/test/normal/normal (168).jpg
-/content/darknet/DataSet/test/normal/normal (168).txt
-/content/darknet/DataSet/test/normal/normal (169).txt
 /content/darknet/DataSet/test/normal/normal (170).jpg
-/content/darknet/DataSet/test/normal/normal (170).txt
 /content/darknet/DataSet/test/normal/normal (171).jpg
-/content/darknet/DataSet/test/normal/normal (171).txt
 /content/darknet/DataSet/test/normal/normal (172).jpg
-/content/darknet/DataSet/test/normal/normal (172).txt
 /content/darknet/DataSet/test/normal/normal (173).jpg
-/content/darknet/DataSet/test/normal/normal (173).txt
 /content/darknet/DataSet/test/normal/normal (174).jpg
 /content/darknet/DataSet/test/normal/normal (189).jpg
-/content/darknet/DataSet/test/normal/normal (189).txt
 /content/darknet/DataSet/test/normal/normal (190).jpg
-/content/darknet/DataSet/test/normal/normal (190).txt
 /content/darknet/DataSet/test/normal/normal (191).jpg
-/content/darknet/DataSet/test/normal/normal (191).txt
 /content/darknet/DataSet/test/normal/normal (192).jpg
-/content/darknet/DataSet/test/normal/normal (192).txt
 /content/darknet/DataSet/test/normal/normal (193).jpg
-/content/darknet/DataSet/test/normal/normal (193).txt
 /content/darknet/DataSet/test/normal/normal (194).jpg
-/content/darknet/DataSet/test/normal/normal (194).txt
 /content/darknet/DataSet/test/normal/normal (195).jpg
-/content/darknet/DataSet/test/normal/normal (195).txt
 /content/darknet/DataSet/test/normal/normal (196).jpg
-/content/darknet/DataSet/test/normal/normal (196).txt
 /content/darknet/DataSet/test/normal/normal (197).jpg
-/content/darknet/DataSet/test/normal/normal (197).txt
 /content/darknet/DataSet/test/normal/normal (198).jpg
-/content/darknet/DataSet/test/normal/normal (198).txt
 /content/darknet/DataSet/test/normal/normal (199).jpg
-/content/darknet/DataSet/test/normal/normal (199).txt
 /content/darknet/DataSet/test/normal/normal (200).jpg
-/content/darknet/DataSet/test/normal/normal (200).txt
 /content/darknet/DataSet/test/normal/normal (201).jpg
-/content/darknet/DataSet/test/normal/normal (201).txt
 /content/darknet/DataSet/test/normal/normal (202).jpg
-/content/darknet/DataSet/test/normal/normal (202).txt
 /content/darknet/DataSet/test/normal/normal (203).jpg
-/content/darknet/DataSet/test/normal/normal (203).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (301).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (301).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (302).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (302).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (303).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (303).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (304).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (304).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (305).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (305).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (306).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (306).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (307).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (307).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (308).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (308).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (309).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (309).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (310).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (310).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (311).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (311).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (312).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (312).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (313).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (313).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (314).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (314).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (315).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (315).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (316).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (316).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (317).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (317).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (318).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (318).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (319).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (319).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (320).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (320).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (321).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (321).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (322).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (322).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (323).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (323).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (324).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (324).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (325).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (325).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (326).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (326).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (327).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (327).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (328).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (328).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (329).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (329).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (330).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (330).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (331).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (331).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (332).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (332).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (333).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (333).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (334).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (334).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (335).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (335).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (336).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (336).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (337).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (337).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (338).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (338).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (339).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (339).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (340).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (340).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (341).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (341).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (342).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (342).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (343).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (343).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (344).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (344).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (345).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (345).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (346).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (346).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (347).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (347).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (348).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (348).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (349).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (349).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (350).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (350).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (351).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (351).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (352).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (352).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (353).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (353).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (354).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (354).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (355).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (355).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (356).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (356).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (357).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (357).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (358).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (358).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (359).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (359).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (360).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (360).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (361).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (361).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (362).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (362).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (363).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (363).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (364).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (364).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (365).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (365).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (366).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (366).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (367).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (367).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (368).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (368).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (369).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (369).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (370).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (370).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (371).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (371).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (372).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (372).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (373).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (373).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (374).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (374).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (375).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (375).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (376).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (376).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (377).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (377).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (378).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (378).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (379).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (379).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (380).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (380).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (381).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (381).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (382).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (382).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (383).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (383).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (384).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (384).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (385).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (385).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (386).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (386).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (387).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (387).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (388).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (388).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (389).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (389).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (390).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (390).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (391).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (391).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (392).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (392).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (393).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (393).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (394).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (394).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (395).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (395).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (396).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (396).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (397).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (397).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (398).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (398).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (399).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (399).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (400).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (400).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (401).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (401).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (402).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (402).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (403).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (403).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (404).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (404).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (405).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (405).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (406).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (406).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (407).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (407).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (408).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (408).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (409).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (409).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (410).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (410).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (411).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (411).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (412).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (412).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (413).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (413).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (414).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (414).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (415).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (415).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (416).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (416).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (417).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (417).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (418).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (418).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (419).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (419).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (420).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (420).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (421).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (421).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (422).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (422).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (423).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (423).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (424).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (424).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (425).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (425).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (426).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (426).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (427).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (427).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (428).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (428).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (429).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (429).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (430).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (430).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (431).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (431).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (432).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (432).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (433).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (433).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (434).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (434).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (435).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (435).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (436).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (436).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (437).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (437).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (438).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (438).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (439).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (439).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (440).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (440).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (441).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (441).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (442).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (442).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (443).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (443).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (444).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (444).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (445).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (445).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (446).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (446).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (447).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (447).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (448).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (448).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (449).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (449).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (450).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (450).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (451).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (451).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (452).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (452).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (453).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (453).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (454).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (454).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (455).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (455).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (456).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (456).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (457).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (457).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (458).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (458).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (459).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (459).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (460).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (460).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (461).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (461).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (462).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (462).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (463).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (463).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (464).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (464).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (465).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (465).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (466).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (466).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (467).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (467).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (468).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (468).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (469).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (469).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (470).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (470).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (471).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (471).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (472).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (472).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (473).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (473).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (474).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (474).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (475).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (475).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (476).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (476).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (477).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (477).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (478).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (478).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (479).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (479).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (480).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (480).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (481).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (481).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (482).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (482).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (483).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (483).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (484).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (484).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (485).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (485).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (486).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (486).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (487).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (487).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (488).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (488).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (489).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (489).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (490).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (490).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (491).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (491).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (492).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (492).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (493).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (493).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (494).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (494).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (495).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (495).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (496).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (496).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (497).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (497).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (498).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (498).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (499).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (499).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (500).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (500).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (501).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (501).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (502).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (502).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (503).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (503).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (504).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (504).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (505).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (505).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (506).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (506).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (507).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (507).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (508).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (508).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (509).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (509).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (510).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (510).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (511).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (511).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (512).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (512).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (513).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (513).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (514).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (514).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (515).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (515).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (516).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (516).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (517).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (517).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (518).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (518).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (519).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (519).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (520).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (520).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (521).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (521).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (522).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (522).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (523).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (523).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (524).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (524).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (525).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (525).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (526).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (526).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (527).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (527).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (528).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (528).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (529).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (529).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (530).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (530).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (531).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (531).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (532).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (532).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (533).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (533).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (534).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (534).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (535).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (535).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (536).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (536).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (537).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (537).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (538).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (538).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (539).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (539).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (540).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (540).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (541).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (541).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (542).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (542).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (543).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (543).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (544).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (544).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (545).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (545).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (546).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (546).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (547).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (547).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (548).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (548).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (549).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (549).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (550).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (550).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (551).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (551).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (552).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (552).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (553).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (553).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (554).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (554).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (555).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (555).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (556).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (556).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (557).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (557).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (558).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (558).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (559).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (559).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (560).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (560).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (561).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (561).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (562).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (562).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (563).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (563).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (564).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (564).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (565).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (565).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (566).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (566).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (567).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (567).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (568).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (568).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (569).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (569).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (570).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (570).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (571).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (571).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (572).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (572).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (573).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (573).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (574).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (574).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (575).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (575).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (576).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (576).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (577).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (577).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (578).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (578).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (579).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (579).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (580).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (580).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (581).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (581).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (582).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (582).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (583).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (583).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (584).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (584).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (585).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (585).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (586).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (586).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (587).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (587).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (588).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (588).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (589).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (589).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (590).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (590).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (591).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (591).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (592).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (592).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (593).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (593).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (594).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (594).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (595).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (595).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (596).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (596).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (597).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (597).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (598).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (598).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (599).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (599).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (600).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (600).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (601).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (601).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (602).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (602).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (603).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (603).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (604).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (604).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (605).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (605).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (606).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (606).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (607).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (607).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (608).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (608).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (609).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (609).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (610).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (610).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (611).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (611).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (612).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (612).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (613).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (613).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (614).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (614).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (615).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (615).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (616).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (616).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (617).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (617).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (618).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (618).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (619).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (619).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (620).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (620).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (621).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (621).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (622).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (622).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (623).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (623).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (624).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (624).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (625).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (625).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (626).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (626).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (627).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (627).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (628).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (628).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (629).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (629).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (630).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (630).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (631).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (631).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (632).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (632).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (633).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (633).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (634).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (634).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (635).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (635).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (636).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (636).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (637).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (637).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (638).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (638).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (639).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (639).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (640).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (640).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (641).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (641).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (642).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (642).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (643).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (643).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (644).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (644).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (645).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (645).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (646).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (646).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (647).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (647).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (648).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (648).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (649).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (649).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (650).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (650).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (651).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (651).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (652).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (652).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (653).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (653).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (654).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (654).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (655).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (655).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (656).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (656).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (657).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (657).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (658).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (658).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (659).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (659).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (660).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (660).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (661).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (661).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (662).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (662).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (663).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (663).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (664).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (664).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (665).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (665).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (666).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (666).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (667).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (667).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (668).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (668).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (669).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (669).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (670).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (670).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (671).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (671).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (672).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (672).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (673).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (673).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (674).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (674).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (675).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (675).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (676).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (676).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (677).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (677).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (678).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (678).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (679).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (679).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (680).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (680).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (681).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (681).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (682).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (682).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (683).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (683).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (684).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (684).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (685).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (685).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (686).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (686).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (687).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (687).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (688).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (688).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (689).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (689).txt
 /content/darknet/DataSet/test/spoiled_advanced stage/advanced (690).jpg
-/content/darknet/DataSet/test/spoiled_advanced stage/advanced (690).txt
-/content/darknet/DataSet/test/spoiled_advanced stage/classes.txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1186).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1186).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1187).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1187).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1188).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1188).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1189).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1189).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1190).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1190).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1191).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1191).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1192).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1192).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1193).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1193).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1194).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1194).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1195).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1195).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1196).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1196).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1197).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1197).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1198).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1198).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1199).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1199).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1200).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1200).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1201).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1201).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1202).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1202).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1203).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1203).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1204).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1204).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1205).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1205).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1206).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1206).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1207).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1207).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1208).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1208).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1209).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1209).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1210).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1210).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1211).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1211).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1212).jpg
 /content/darknet/DataSet/test/spoiled_early stage/early (1393).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1393).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1394).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1394).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1395).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1395).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1396).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1396).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1397).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1397).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1398).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1398).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1399).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1399).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1400).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1400).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1401).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1401).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1402).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1402).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1403).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1403).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1404).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1404).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1405).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1405).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1406).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1406).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1407).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1407).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1408).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1408).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1409).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1409).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1410).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1410).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1411).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1411).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1412).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1412).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1413).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1413).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1414).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1414).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1415).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1415).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1416).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1416).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1417).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1417).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1418).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1418).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1419).jpg
 /content/darknet/DataSet/test/spoiled_early stage/early (1438).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1438).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1439).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1439).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1440).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1440).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1441).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1441).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1442).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1442).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1443).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1443).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1444).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1444).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1445).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1445).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1446).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1446).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1447).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1447).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1448).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1448).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1449).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1449).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1450).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1450).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1451).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1451).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1452).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1452).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1453).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1453).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1454).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (1454).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (1455).jpg
 /content/darknet/DataSet/test/spoiled_early stage/early (701).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (701).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (702).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (702).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (703).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (703).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (704).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (704).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (705).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (705).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (706).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (706).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (707).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (707).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (708).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (708).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (709).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (709).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (710).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (710).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (711).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (711).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (712).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (712).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (713).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (713).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (714).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (714).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (715).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (715).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (716).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (716).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (717).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (717).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (718).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (718).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (719).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (719).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (720).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (720).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (721).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (721).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (722).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (722).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (723).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (723).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (724).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (724).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (725).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (725).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (726).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (726).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (727).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (727).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (728).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (728).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (729).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (729).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (730).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (730).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (731).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (731).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (732).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (732).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (733).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (733).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (734).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (734).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (735).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (735).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (736).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (736).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (737).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (737).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (738).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (738).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (739).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (739).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (740).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (740).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (741).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (741).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (742).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (742).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (743).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (743).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (744).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (744).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (745).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (745).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (746).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (746).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (747).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (747).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (748).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (748).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (749).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (749).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (750).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (750).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (751).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (751).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (752).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (752).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (753).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (753).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (754).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (754).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (755).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (755).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (756).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (756).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (757).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (757).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (758).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (758).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (759).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (759).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (760).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (760).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (761).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (761).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (762).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (762).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (763).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (763).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (764).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (764).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (765).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (765).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (766).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (766).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (767).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (767).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (768).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (768).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (769).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (769).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (770).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (770).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (771).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (771).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (772).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (772).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (773).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (773).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (774).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (774).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (775).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (775).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (776).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (776).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (777).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (777).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (778).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (778).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (779).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (779).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (780).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (780).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (781).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (781).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (782).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (782).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (783).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (783).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (784).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (784).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (785).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (785).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (786).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (786).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (787).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (787).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (788).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (788).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (789).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (789).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (790).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (790).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (791).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (791).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (792).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (792).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (793).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (793).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (794).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (794).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (795).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (795).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (796).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (796).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (797).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (797).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (798).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (798).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (799).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (799).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (800).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (800).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (801).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (801).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (802).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (802).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (803).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (803).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (804).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (804).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (805).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (805).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (806).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (806).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (807).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (807).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (808).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (808).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (809).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (809).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (810).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (810).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (811).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (811).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (812).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (812).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (813).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (813).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (814).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (814).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (815).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (815).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (816).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (816).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (817).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (817).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (818).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (818).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (819).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (819).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (820).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (820).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (821).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (821).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (822).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (822).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (823).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (823).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (824).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (824).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (825).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (825).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (826).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (826).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (827).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (827).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (828).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (828).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (829).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (829).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (830).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (830).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (831).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (831).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (832).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (832).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (833).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (833).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (834).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (834).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (835).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (835).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (836).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (836).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (837).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (837).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (838).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (838).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (839).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (839).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (840).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (840).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (841).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (841).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (842).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (842).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (843).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (843).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (844).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (844).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (845).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (845).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (846).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (846).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (847).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (847).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (848).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (848).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (849).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (849).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (850).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (850).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (851).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (851).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (852).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (852).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (853).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (853).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (854).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (854).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (855).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (855).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (856).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (856).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (857).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (857).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (858).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (858).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (859).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (859).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (860).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (860).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (861).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (861).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (862).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (862).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (863).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (863).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (864).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (864).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (865).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (865).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (866).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (866).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (867).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (867).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (868).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (868).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (869).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (869).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (870).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (870).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (871).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (871).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (872).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (872).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (873).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (873).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (874).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (874).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (875).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (875).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (876).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (876).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (877).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (877).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (878).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (878).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (879).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (879).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (880).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (880).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (881).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (881).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (882).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (882).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (883).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (883).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (884).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (884).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (885).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (885).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (886).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (886).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (887).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (887).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (888).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (888).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (889).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (889).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (890).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (890).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (891).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (891).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (892).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (892).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (893).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (893).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (894).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (894).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (895).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (895).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (896).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (896).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (897).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (897).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (898).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (898).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (899).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (899).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (900).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (900).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (901).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (901).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (902).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (902).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (903).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (903).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (904).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (904).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (905).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (905).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (906).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (906).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (907).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (907).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (908).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (908).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (909).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (909).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (910).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (910).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (911).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (911).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (912).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (912).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (913).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (913).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (914).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (914).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (915).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (915).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (916).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (916).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (917).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (917).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (918).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (918).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (919).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (919).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (920).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (920).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (921).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (921).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (922).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (922).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (923).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (923).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (924).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (924).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (925).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (925).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (926).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (926).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (927).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (927).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (928).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (928).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (929).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (929).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (930).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (930).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (931).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (931).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (932).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (932).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (933).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (933).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (934).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (934).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (935).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (935).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (936).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (936).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (937).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (937).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (938).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (938).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (939).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (939).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (940).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (940).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (941).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (941).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (942).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (942).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (943).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (943).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (944).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (944).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (945).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (945).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (946).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (946).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (947).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (947).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (948).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (948).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (949).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (949).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (950).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (950).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (951).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (951).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (952).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (952).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (953).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (953).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (954).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (954).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (955).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (955).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (956).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (956).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (957).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (957).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (958).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (958).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (959).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (959).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (960).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (960).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (961).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (961).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (962).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (962).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (963).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (963).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (964).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (964).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (965).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (965).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (966).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (966).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (967).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (967).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (968).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (968).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (969).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (969).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (970).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (970).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (971).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (971).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (972).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (972).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (973).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (973).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (974).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (974).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (975).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (975).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (976).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (976).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (977).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (977).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (978).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (978).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (979).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (979).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (980).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (980).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (981).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (981).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (982).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (982).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (983).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (983).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (984).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (984).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (985).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (985).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (986).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (986).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (987).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (987).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (988).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (988).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (989).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (989).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (990).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (990).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (991).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (991).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (992).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (992).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (993).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (993).txt
 /content/darknet/DataSet/test/spoiled_early stage/early (994).jpg
-/content/darknet/DataSet/test/spoiled_early stage/early (994).txt
