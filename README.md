@@ -1,16 +1,10 @@
 RottenFruitsModel
 
-# yolo 학습 시키기
-1. [DarknetSetup.ipynb: ](https://github.com/RottenFruitsOSS/RottenFruitsModel/blob/master/DarknetSetup.ipynb) 
-yolo 실행을 위한 darknet 설치 밀 환경 구축
+# 폴더 설명
+[fruits_360](fruits_360) : keras fruits-360모델 만들기
 
-2. [yolo-cherry.ipynb: ](https://github.com/RottenFruitsOSS/RottenFruitsModel/blob/master/yolo_cherry.ipynb)
-yolo 학습 과정 정리
+[metadata_create](metadata_create) : 메타데이타 만들기 위해 필요한 파일
 
+[yolo_convert_to_keras](yolo_convert_to_keras) : yolo에서 keras로 파일 변환
 
-# 파일 설명
-DarknetSetup : yolo 학습을 위해 gdrive에 darknet 설치 및 환경 구축
-
-bazel_install : bazel 사용해서 .pb -> .tflite 변환 시도하려는 파일
-
-tflite_convert : .weight -> .pb -> .tflite 변환 하려는 코드 / 다른 방법 시도 / tensorflow에서 제공하는 방법 사용해봄
+[yolo_model_data](yolo_model_data) : yolo모델 만들기
